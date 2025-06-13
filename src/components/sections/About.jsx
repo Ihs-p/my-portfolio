@@ -1,9 +1,9 @@
 import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
-  const frontendSkills = ["React", "Nextjs", "Typescript", "TailwindCss"];
+  const frontendSkills = ["React", "Nextjs", "Redux", "Typescript", "TailwindCss"];
 
-  const BackendSkills = ["Node.js", "Python", "MongoDB", "PostgreSql"];
+  const BackendSkills = ["Node.js","Express.js","Python", "MongoDB", "PostgreSql"];
   return (
     <section
       id="about"
