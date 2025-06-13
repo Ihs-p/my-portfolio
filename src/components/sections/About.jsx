@@ -61,9 +61,7 @@ export const About = () => {
                 <li>
                     <strong>BACHELOR OF COMPUTER APPLICATION</strong> - calicut university(2021-2024 )
                 </li>
-                <li>
-                    Relevant CourseWork: Data Structures, Web Development...
-                </li>
+               
             </ul>
           </div>
 
