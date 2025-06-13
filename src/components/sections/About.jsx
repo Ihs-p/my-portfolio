@@ -69,16 +69,7 @@ export const About = () => {
             <h3 className="text-xl font-bold mb-4 "> 💼 Work Experience</h3>
 
             <div className="space-y-4 text-gray-300">
-                {/* <div>
-                  <h4 className="font-semibold">
-                    {" "}
-                    Software Engineer at ABC Corp (2020 - Present){" "}
-                  </h4>
-                  <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
-                  </p>
-                </div> */}
+            
 
                 <div>
                   <h4 className="font-semibold">
